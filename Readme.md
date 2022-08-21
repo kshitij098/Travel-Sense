@@ -2,9 +2,15 @@
 An app that fetch restaurants, hotels or attractions based on the location and data filtering based on rating
 
 
-![screenshot_of_travel_advisor_app]([https://i.ibb.co/PwYjryD/travel-advisor.png](https://drive.google.com/file/d/1_P-qIE2_uqSkgRTHwkNCpLAudqqE9EuB/view?usp=sharing))
-![screenshot_of_travel_advisor_app_light_mode]([https://i.ibb.co/fGh1QXM/travel-advisor-white-mode.png](https://drive.google.com/file/d/14GWEQkrU481_9t1oLasO0FrUZCyldWqu/view?usp=sharing))
-![screenshot_of_travel_advisor_app_dark_mode]([https://i.ibb.co/fGh1QXM/travel-advisor-white-mode.png](https://drive.google.com/file/d/1H56qdy8jaXJ_IHgPkadzIaa9cD3EAcsZ/view?usp=sharing))
+![screenshot_of_travel_advisor_app](https://github.com/kshitij098/Travel-Sense/blob/master/Light_mode.png?raw=true)
+
+
+
+![screenshot_of_travel_advisor_app_light_mode](https://github.com/kshitij098/Travel-Sense/blob/master/Dark_mode.png?raw=true)
+
+
+
+![screenshot_of_travel_advisor_app_dark_mode](https://github.com/kshitij098/Travel-Sense/blob/master/Type.png?raw=true)
 
 ## Built with
 - [React](https://reactjs.org/)
